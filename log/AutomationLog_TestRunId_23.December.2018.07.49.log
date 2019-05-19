@@ -1,0 +1,9 @@
+2018-12-23 07:50:09 ERROR ExtentReporttListener:108 - testValidLogin1Test Failed...java.lang.NullPointerException
+2018-12-23 07:50:09 ERROR ExtentReporttListener:108 - testValidLogin2Test Failed...java.lang.NullPointerException
+2018-12-23 07:50:09 INFO  ExtentReporttListener:55 - Regression 1 Test Finished...
+2018-12-23 07:50:13 ERROR ExtentReporttListener:108 - testValidLogin5Test Failed...java.lang.NullPointerException
+2018-12-23 07:50:13 ERROR ExtentReporttListener:108 - testValidLogin6Test Failed...java.lang.NullPointerException
+2018-12-23 07:50:13 INFO  ExtentReporttListener:55 - Regression 3 Test Finished...
+2018-12-23 07:50:15 ERROR ExtentReporttListener:108 - testValidLogin3Test Failed...java.lang.NullPointerException
+2018-12-23 07:50:15 ERROR ExtentReporttListener:108 - testValidLogin4Test Failed...java.lang.NullPointerException
+2018-12-23 07:50:15 INFO  ExtentReporttListener:55 - Regression 2 Test Finished...

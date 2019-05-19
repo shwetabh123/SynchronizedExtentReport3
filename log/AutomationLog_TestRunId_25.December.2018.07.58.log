@@ -1,0 +1,9 @@
+2018-12-25 19:58:23 WARN  ExtentReporttListener:147 - TC7Test Skipped...java.lang.NoSuchMethodError: org.openqa.selenium.chrome.ChromeOptions.addArguments([Ljava/lang/String;)Lorg/openqa/selenium/chrome/ChromeOptions;
+2018-12-25 19:58:23 WARN  ExtentReporttListener:147 - TC1Test Skipped...java.lang.NoSuchMethodError: org.openqa.selenium.chrome.ChromeOptions.addArguments([Ljava/lang/String;)Lorg/openqa/selenium/chrome/ChromeOptions;
+2018-12-25 19:58:23 WARN  ExtentReporttListener:147 - TC8Test Skipped...java.lang.NoSuchMethodError: org.openqa.selenium.chrome.ChromeOptions.addArguments([Ljava/lang/String;)Lorg/openqa/selenium/chrome/ChromeOptions;
+2018-12-25 19:58:23 WARN  ExtentReporttListener:147 - TC2Test Skipped...java.lang.NoSuchMethodError: org.openqa.selenium.chrome.ChromeOptions.addArguments([Ljava/lang/String;)Lorg/openqa/selenium/chrome/ChromeOptions;
+2018-12-25 19:58:23 WARN  ExtentReporttListener:147 - TC3Test Skipped...java.lang.NoSuchMethodError: org.openqa.selenium.chrome.ChromeOptions.addArguments([Ljava/lang/String;)Lorg/openqa/selenium/chrome/ChromeOptions;
+2018-12-25 19:58:23 WARN  ExtentReporttListener:147 - TC4Test Skipped...java.lang.NoSuchMethodError: org.openqa.selenium.chrome.ChromeOptions.addArguments([Ljava/lang/String;)Lorg/openqa/selenium/chrome/ChromeOptions;
+2018-12-25 19:58:24 WARN  ExtentReporttListener:147 - TC5Test Skipped...java.lang.NoSuchMethodError: org.openqa.selenium.chrome.ChromeOptions.addArguments([Ljava/lang/String;)Lorg/openqa/selenium/chrome/ChromeOptions;
+2018-12-25 19:58:24 WARN  ExtentReporttListener:147 - TC6Test Skipped...java.lang.NoSuchMethodError: org.openqa.selenium.chrome.ChromeOptions.addArguments([Ljava/lang/String;)Lorg/openqa/selenium/chrome/ChromeOptions;
+2018-12-25 19:58:24 INFO  ExtentReporttListener:55 - ExtentWithParallelClasses Test Finished...

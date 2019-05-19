@@ -1,0 +1,54 @@
+2018-12-23 12:27:31 ERROR ExtentReporttListener:125 - testValidLogin5Test Failed...org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//SELECT[@name='j_company']"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 49 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'DC4-QVM-TMQA-07', ip: '10.111.108.156', os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=WIN8_1, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:59563}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5), userDataDir=C:\Users\TMQASC~1\AppData\Local\Temp\3\scoped_dir11644_28048}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=71.0.3578.98, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 1728f1cf9195692af9e4187a1e745a68
+*** Element info: {Using=xpath, value=//SELECT[@name='j_company']}
+Command duration or timeout: 266 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'DC4-QVM-TMQA-08', ip: '10.111.108.157', os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=WIN8_1, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:59563}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5), userDataDir=C:\Users\TMQASC~1\AppData\Local\Temp\3\scoped_dir11644_28048}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=71.0.3578.98, browserConnectionEnabled=false, nativeEvents=true, webdriver.remote.sessionid=33b8825f-76da-4774-bb2a-d6a49d467d60, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 33b8825f-76da-4774-bb2a-d6a49d467d60
+*** Element info: {Using=xpath, value=//SELECT[@name='j_company']}
+2018-12-23 12:27:33 INFO  ExtentReporttListener:75 - testValidLogin4 Test Started...
+2018-12-23 12:27:36 ERROR ExtentReporttListener:125 - testValidLogin1Test Failed...org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//SELECT[@name='j_company']"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 34 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'DC4-QVM-TMQA-06', ip: '10.111.108.155', os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=WIN8_1, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:65042}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5), userDataDir=C:\Users\TMQASC~2\AppData\Local\Temp\4\scoped_dir4012_3182}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=71.0.3578.98, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 94500a58470f9e0c1adfbb72c5cf555f
+*** Element info: {Using=xpath, value=//SELECT[@name='j_company']}
+Command duration or timeout: 578 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'DC4-QVM-TMQA-08', ip: '10.111.108.157', os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=WIN8_1, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:65042}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5), userDataDir=C:\Users\TMQASC~2\AppData\Local\Temp\4\scoped_dir4012_3182}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=71.0.3578.98, browserConnectionEnabled=false, nativeEvents=true, webdriver.remote.sessionid=83229bc8-94f1-4094-bbfd-109235d337bf, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 83229bc8-94f1-4094-bbfd-109235d337bf
+*** Element info: {Using=xpath, value=//SELECT[@name='j_company']}
+2018-12-23 12:28:10 ERROR ExtentReporttListener:125 - testValidLogin4Test Failed...org.openqa.selenium.WebDriverException: cannot forward the request Connection reset
+Command duration or timeout: 2.84 seconds
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'DC4-QVM-TMQA-08', ip: '10.111.108.157', os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=WIN8_1, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:65042}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5), userDataDir=C:\Users\TMQASC~2\AppData\Local\Temp\4\scoped_dir4012_3182}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=71.0.3578.98, browserConnectionEnabled=false, nativeEvents=true, webdriver.remote.sessionid=83229bc8-94f1-4094-bbfd-109235d337bf, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 83229bc8-94f1-4094-bbfd-109235d337bf
+*** Element info: {Using=xpath, value=//SELECT[@name='j_company']}
+2018-12-23 12:28:11 INFO  ExtentReporttListener:55 - Regression 2 Test Finished...
+2018-12-23 12:28:11 INFO  ExtentReporttListener:75 - testValidLogin6 Test Started...
+2018-12-23 12:28:11 WARN  ExtentReporttListener:147 - testValidLogin6Test Skipped...null
+2018-12-23 12:28:12 INFO  ExtentReporttListener:55 - Regression 3 Test Finished...
+2018-12-23 12:28:12 INFO  ExtentReporttListener:75 - testValidLogin2 Test Started...
+2018-12-23 12:28:13 WARN  ExtentReporttListener:147 - testValidLogin2Test Skipped...null
+2018-12-23 12:28:13 INFO  ExtentReporttListener:55 - Regression 1 Test Finished...

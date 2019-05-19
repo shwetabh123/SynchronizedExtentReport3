@@ -1,0 +1,6 @@
+2018-12-23 03:42:56 ERROR ExtentReporttListener:98 - testValidLogin5Test Failed...java.lang.NullPointerException
+2018-12-23 03:42:56 ERROR ExtentReporttListener:98 - testValidLogin1Test Failed...java.lang.NullPointerException
+2018-12-23 03:42:56 ERROR ExtentReporttListener:98 - testValidLogin3Test Failed...java.lang.NullPointerException
+2018-12-23 03:43:00 ERROR ExtentReporttListener:98 - testValidLogin2Test Failed...java.lang.NullPointerException
+2018-12-23 03:43:04 ERROR ExtentReporttListener:98 - testValidLogin6Test Failed...java.lang.NullPointerException
+2018-12-23 03:43:09 ERROR ExtentReporttListener:98 - testValidLogin4Test Failed...java.lang.NullPointerException

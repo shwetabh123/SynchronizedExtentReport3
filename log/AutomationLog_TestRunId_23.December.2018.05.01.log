@@ -1,0 +1,17 @@
+2018-12-23 05:01:22 INFO  ExtentReporttListener:75 - testValidLogin2 Test Started...
+2018-12-23 05:01:22 ERROR ExtentReporttListener:105 - testValidLogin3Test Failed...org.openqa.selenium.WebDriverException: Session [22e09e1a-b0dd-4526-862e-dc96603f90e6] was terminated due to TIMEOUT
+Command duration or timeout: 18 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'DC4-QVM-TMQA-08', ip: '10.111.108.157', os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=WIN8_1, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:63410}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5), userDataDir=C:\Users\TMQASC~2\AppData\Local\Temp\4\scoped_dir3456_23576}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=71.0.3578.98, browserConnectionEnabled=false, nativeEvents=true, webdriver.remote.sessionid=22e09e1a-b0dd-4526-862e-dc96603f90e6, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 22e09e1a-b0dd-4526-862e-dc96603f90e6
+2018-12-23 05:01:22 ERROR ExtentReporttListener:105 - testValidLogin2Test Failed...org.openqa.selenium.WebDriverException: Session [71a0ef97-ca1a-44e1-b8cc-0aa45c4279ff] was terminated due to TIMEOUT
+Command duration or timeout: 16 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'DC4-QVM-TMQA-08', ip: '10.111.108.157', os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=WIN8_1, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:56490}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5), userDataDir=C:\Users\TMQASC~2\AppData\Local\Temp\5\scoped_dir9512_13135}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=71.0.3578.98, browserConnectionEnabled=false, nativeEvents=true, webdriver.remote.sessionid=71a0ef97-ca1a-44e1-b8cc-0aa45c4279ff, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 71a0ef97-ca1a-44e1-b8cc-0aa45c4279ff
+2018-12-23 05:01:52 INFO  ExtentReporttListener:75 - testValidLogin6 Test Started...
+2018-12-23 05:02:10 INFO  ExtentReporttListener:75 - testValidLogin4 Test Started...

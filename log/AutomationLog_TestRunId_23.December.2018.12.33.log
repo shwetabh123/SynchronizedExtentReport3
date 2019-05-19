@@ -1,0 +1,11 @@
+2018-12-23 12:33:28 INFO  ExtentReporttListener:75 - testValidLogin3 Test Started...
+2018-12-23 12:33:28 INFO  ExtentReporttListener:75 - testValidLogin5 Test Started...
+2018-12-23 12:33:28 INFO  ExtentReporttListener:75 - testValidLogin1 Test Started...
+2018-12-23 12:34:05 ERROR ExtentReporttListener:125 - testValidLogin3Test Failed...org.openqa.selenium.WebDriverException: cannot forward the request Connect to 10.111.108.155:5691 [/10.111.108.155] failed: Connection refused: connect
+Command duration or timeout: 1.05 seconds
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'DC4-QVM-TMQA-08', ip: '10.111.108.157', os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=WIN8_1, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:65119}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5), userDataDir=C:\Users\TMQASC~2\AppData\Local\Temp\4\scoped_dir2784_16324}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=71.0.3578.98, browserConnectionEnabled=false, nativeEvents=true, webdriver.remote.sessionid=4edf5189-8448-4f13-9191-60c5ede96a53, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 4edf5189-8448-4f13-9191-60c5ede96a53
+*** Element info: {Using=xpath, value=//SELECT[@name='j_company']}

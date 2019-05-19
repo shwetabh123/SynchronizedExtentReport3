@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Extent Parallel Test" parallel="classes" thread-count="4">
+  <listeners>
+        <listener class-name="generic.ExtentReporttListener"/>
+    </listeners>
+
+   
+ 
+    <test name="ExtentWithParallelClasses">
+         <parameter name="browser" value="${browser.name}"/>
+         <parameter name="appURL" value="${appURL.name}"/>
+      
+        <classes>
+            <class name="com.pulse.Test.ValidLogin" />
+            <class name="com.pulse.Test.ValidLogin2" />
+            
+             <class name="com.pulse.Test.ValidLogin3" />
+            <class name="com.pulse.Test.ValidLogin4" />
+        </classes>
+    </test>
+</suite>
